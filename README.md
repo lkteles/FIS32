@@ -1,4 +1,3 @@
-# FIS32
-Eletricidade e Magnetismo
+# Curso de FIS32 - Eletricidade e Magnetismo
 
 Arquivos de exercicios usando Python
